@@ -59,9 +59,9 @@ function mostrarPeliculas(arr,i){ //Función que recibe un array y un número. E
             </button>
             <ul class="dropdown-menu">
               <li><p >Year:   ${year}</p></li>
-              <li><p >runtime: ${arr.runtime} mins</p></li>
-              <li><p >Budget: ${arr.budget}</p></li>
-              <li><p >Revenue: ${arr.revenue}</p></li>
+              <li><p >Runtime: ${arr.runtime} mins</p></li>
+              <li><p >Budget: ${arr.budget}$</p></li>
+              <li><p >Revenue: ${arr.revenue}$</p></li>
             </ul>
           </div>`
 
